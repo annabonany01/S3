@@ -11,7 +11,8 @@
 En aquest apartat, podem trobar el fitxer SEMI_3_ex1.py, on a partir de la funció compare, podem comparar en una quadricula 2x2, els video generats en el ex2. 
 Amb els video codecs VP8, VP9, H265 i AV1, a una resolució 720p, 480p, 360x240 i 160x120.
 
-Com a resultat, podem veure que un video a 480p amb un codec vp9 codec es veu amb més qualitat que un video amb 720p i un codec de vp8. 
+Com a resultat, podem veure que un video a 480p amb un codec vp9 codec es veu amb més qualitat que un video amb 720p i un codec de vp8. També he pogut observar que el temps de codificació entre els 4 codecs, el que ha tardat més és AV1. A més a més, el codec que consumeix més bitrate és VP9. 
+
 Això es degut a la compatibilitat entre els codecs i la resolució. 
 
 #### Exercici 2
